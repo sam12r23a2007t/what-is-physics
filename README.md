@@ -1,1 +1,2 @@
 # what-is-physics
+Physics is the natural science that studies matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. Physics is one of the most fundamental scientific disciplines, with its main goal being to understand how the universe behaves. Branches rises from mechanics, optics, sound, light, electricity, magnetism to modern physics such as wave, duality and quantum mechanics and so on.
